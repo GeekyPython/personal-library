@@ -27,6 +27,9 @@
 		"hyperdev",
 		"express"
 	],
+	"engines": {
+		"node": ">=14 <=19"
+	},
 	"license": "MIT",
 	"devDependencies": {
 		"nodemon": "^3.0.1"
